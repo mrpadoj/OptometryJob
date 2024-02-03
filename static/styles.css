@@ -1,0 +1,90 @@
+/* static/styles.css */
+
+body {
+    background-color: #f8f8f8; /* Light gray background for the entire page */
+    color: #333; /* Dark gray text color */
+    font-family: 'Arial', sans-serif; /* Change the font family */
+    text-align: center; /* Center-align text */
+}
+
+header {
+    background-color: #3498db; /* Light blue header background */
+    padding: 15px;
+}
+
+header h1 {
+    color: #fff; /* White text color for the header */
+}
+
+main {
+    margin: 20px;
+}
+
+#filters {
+    background-color: #ecf0f1; /* Light gray background for the filters section */
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333; /* Dark gray text color for labels */
+}
+
+input {
+    padding: 10px;
+    width: 60%;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #2ecc71; /* Light green button background */
+    color: #fff; /* White text color for buttons */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #27ae60; /* Darker green on hover for buttons */
+}
+
+#featured-jobs {
+    text-align: left; /* Align job cards to the left */
+}
+
+.job-card {
+    background-color: #fff; /* White background for job cards */
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd; /* Light gray border */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft box shadow */
+}
+
+.job-card h3 {
+    margin-bottom: 10px;
+    color: #3498db; /* Light blue text color for job titles */
+}
+
+.job-card p {
+    color: #666; /* Gray text color for job descriptions */
+}
+
+.job-card a.apply-button {
+    display: inline-block;
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.job-card a.apply-button:hover {
+    background-color: #2980b9;
+}

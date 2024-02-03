@@ -1,0 +1,95 @@
+{
+    "featuredJobs": [
+        {
+            "title": "Optometrist - Navy",
+            "location": "Lagos, Nigeria",
+            "description": "Amazing opportunity for an experienced optometrist in Navy, Nigeria. Join our growing team!",
+            "applyLink": "https://www.myjobmag.com/job/optometrist-nigerian-navy-4?",
+            "keywords": "full time"
+        },
+        {
+            "title": "Senior Optician",
+            "location": "Owerri, Nigeria",
+            "description": "Exciting opportunity for a senior optician in the heart of New York. Join our team!",
+            "applyLink": "https://example.com/apply/senior-optician-nyc",
+            "keywords": "full time"
+        },
+        {
+            "title": "Optometry Intern",
+            "location": "Enugu, Nigeria",
+            "description": "Kickstart your career as an optometry intern in the beautiful city of Sydney. Training provided!",
+            "applyLink": "https://example.com/apply/optometry-intern-sydney",
+            "keywords": "intern"
+        },
+        {
+            "title": "Part-time Optical Assistant",
+            "location": "Owerri, Nigeria",
+            "description": "Join our team part-time as an optical assistant in Toronto. Flexible hours available!",
+            "applyLink": "https://example.com/apply/optical-assistant-toronto",
+            "keywords": "part time"
+        },
+        {
+            "title": "Pediatric Optometrist",
+            "location": "Port Harcourt, Germany",
+            "description": "Specialize in pediatric eye care in the vibrant city of Berlin. Make a difference in young lives.",
+            "applyLink": "https://example.com/apply/pediatric-optometrist-berlin",
+            "keywords": "full time"
+        },
+        {
+            "title": "Optical Lab Manager",
+            "location": "Abia, Nigeria",
+            "description": "Lead our state-of-the-art optical lab in Paris. Contribute to precision in eyewear manufacturing.",
+            "applyLink": "https://example.com/apply/optical-lab-manager-paris",
+            "keywords": "full time"
+        },
+        {
+            "title": "Senior Optician",
+            "location": "New York, USA",
+            "description": "Exciting opportunity for a senior optician in the heart of New York. Join our team!",
+            "applyLink": "https://example.com/apply/senior-optician-nyc",
+            "keywords": "full time"
+        },
+        {
+            "title": "Optometry Intern",
+            "location": "Sydney, Australia",
+            "description": "Kickstart your career as an optometry intern in the beautiful city of Sydney. Training provided!",
+            "applyLink": "https://example.com/apply/optometry-intern-sydney",
+            "keywords": "intern"
+        },
+        {
+            "title": "Part-time Optical Assistant",
+            "location": "Toronto, Canada",
+            "description": "Join our team part-time as an optical assistant in Toronto. Flexible hours available!",
+            "applyLink": "https://example.com/apply/optical-assistant-toronto",
+            "keywords": "part time"
+        },
+        {
+            "title": "Pediatric Optometrist",
+            "location": "Berlin, Germany",
+            "description": "Specialize in pediatric eye care in the vibrant city of Berlin. Make a difference in young lives.",
+            "applyLink": "https://example.com/apply/pediatric-optometrist-berlin",
+            "keywords": "full time"
+        },
+        {
+            "title": "Optical Lab Manager",
+            "location": "Paris, France",
+            "description": "Lead our state-of-the-art optical lab in Paris. Contribute to precision in eyewear manufacturing.",
+            "applyLink": "https://example.com/apply/optical-lab-manager-paris",
+            "keywords": "full time"
+        },
+        {
+            "title": "Optometrist - Lagos",
+            "location": "Lagos, Nigeria",
+            "description": "Exciting opportunity for an experienced optometrist in Lagos, Nigeria. Join our growing team!",
+            "applyLink": "https://example.com/apply/optometrist-lagos",
+            "keywords": "part time"
+        },
+        {
+            "title": "Optical Technician - Abuja",
+            "location": "Abuja, Nigeria",
+            "description": "Join our team in Abuja as an optical technician. Apply your skills in a dynamic environment.",
+            "applyLink": "https://example.com/apply/optical-technician-abuja",
+            "keywords": "corps member"
+        }
+    ]
+}

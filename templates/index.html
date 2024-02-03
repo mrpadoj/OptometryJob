@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'styles.css' %}">
+    <title>Optometry Job Search</title>
+</head>
+<body>
+    <header>
+        <h1>Optometry Job Search</h1>
+    </header>
+
+    <main>
+        <div id="filters">
+            <label for="job-title">Job Title:</label>
+            <input type="text" id="job-title" placeholder="Enter job title">
+            
+            <label for="location">Location:</label>
+            <input type="text" id="location" placeholder="Enter location">
+
+            <label for="keywords">Keywords:</label>
+            <input type="text" id="keywords" placeholder="Enter keywords">
+            
+            <button onclick="searchJobs()">Search</button>
+        </div>
+
+        <section id="featured-jobs">
+            <h2>Featured Jobs</h2>
+            <div id="job-list"> <!-- Add this container for job cards -->
+                <!-- Placeholder for featured job cards -->
+            </div>
+        </section>
+    </main>
+
+    <script src="{% static 'script.js' %}"></script>
+</body>
+</html>
